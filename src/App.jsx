@@ -20,16 +20,15 @@ import './App.css'
 function App() {
   
   const projects = [
-    { id: 1, image: APGPistachioThumb, title: 'Project 1', description: 'PR', size: 'large' },
-    { id: 2, image: DHPure, title: 'Project 2', description: 'Verpackungsdesign', size: 'medium' },
-    { id: 3, image: DSthumb, title: 'Project 3', description: 'Food', size: 'small' },
-    { id: 1, image: BBQthumb, title: 'Project 4', description: 'Beverage', size: 'large' },
-    { id: 2, image: Hofguthafermilch, title: 'Project 5', description: 'Beverage', size: 'medium' },
-    { id: 3, image: DHaktiv, title: 'Project 6', description: 'Pharma', size: 'small' }, 
-    { id: 1, image: DHsystem, title: 'Project 7', description: 'Pharma', size: 'large' },
-    { id: 2, image: DreiMeister, title: 'Project 8', description: 'Coporate Design', size: 'medium' },
-    { id: 3, image: DHtiere, title: 'Project 9', description: 'Verpackungsdesign', size: 'small' },
-    { id: 1, image: MediceThumb, title: 'Project 10', description: 'Pharma', size: 'large' },
+    { id: 1, image: APGPistachioThumb, title: 'PR', description: 'APG Pistachios', size: 'large' },
+    { id: 2, image: DHPure, title: 'Packaging Design', description: 'DH Pure', size: 'medium' },
+    { id: 3, image: DSthumb, title: 'Food', description: 'Deutschesee', size: 'small' },
+    { id: 4, image: BBQthumb, title: 'Beverage', description: 'Branden B. quelle', size: 'large' },
+    { id: 5, image: Hofguthafermilch, title: 'Beverage', description: 'Hofgut Hafermilch', size: 'medium' },
+    { id: 6, image: DHaktiv, title: 'Pharma', description: 'DH Aktiv', size: 'small' }, 
+    { id: 7, image: DHsystem, title: 'Pharma', description: 'CDH System', size: 'medium' },
+    { id: 8, image: DHtiere, title: 'PPackaging Design', description: 'DH Tiere', size: 'small' },
+    { id: 9, image: MediceThumb, title: 'Project 10', description: 'Pharma', size: 'large' },
   ];
 
 
